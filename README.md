@@ -33,8 +33,7 @@ Portfolio optimization, backtesting, and dashboard coming next.
 
 
 ## Key Findings So Far
-*(Fill this in based on your Week 2 output — e.g., which stock had the best
-Sharpe ratio, which stocks were most correlated, anything that surprised you)*
+
 
 ## Author
 Sanjeev Subramaniam — MSc Business Analytics, MAHE Manipal
