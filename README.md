@@ -20,7 +20,7 @@ Portfolio optimization, backtesting, and dashboard coming next.
 - *(Coming next)* Visualizes results in an interactive Power BI dashboard (planned)
 
 ## Tools Used
-- Python (pandas, numpy, yfinance, matplotlib)
+- Python (pandas, numpy, yfinance, matplotlib, seaborn)
 - SQLite (data storage and querying)
 - Power BI *(planned)*
 
