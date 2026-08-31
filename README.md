@@ -24,12 +24,7 @@ Portfolio optimization, backtesting, and dashboard coming next.
 - SQLite (data storage and querying)
 - Power BI *(planned)*
 
-## How to Run
-1. Clone this repository
-2. Install dependencies: `pip install yfinance pandas numpy matplotlib`
-3. Run the notebooks in order: `Portfolio Analysis.ipynb`
 
-## Project Structure
 
 
 ## Key Findings So Far
