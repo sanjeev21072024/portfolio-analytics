@@ -27,14 +27,13 @@ optimization via Monte Carlo simulation).
 ## Key Findings
 - M&M had the strongest individual risk-adjusted performance (Sharpe ratio: 1.09),
   followed by SBI (0.88), Sun Pharma (0.85), and ICICI Bank (0.70) — all
-  outperforming the Nifty 50 benchmark (0.55) on a risk-adjusted basis
+  outperforming the Nifty 50 benchmark (0.55) on a risk-adjusted basis.
 - The three IT stocks (TCS, Infosys, Wipro) showed the highest correlation in the
   portfolio (~0.70), indicating limited diversification benefit from holding all three
 - An equal-weighted baseline portfolio returned 15.71% annually at 12.75% volatility,
   with diversification alone cutting risk by ~9.5 percentage points versus holding
-  the stocks independently
+  the stocks independently.
 - The optimized (max Sharpe) portfolio from a 50,000-portfolio Monte Carlo simulation
-  achieved a 26.14% return at 16.30% volatility (Sharpe ratio: 1.235) — nearly double
-  the equal-weight portfolio's return for a modest increase in risk
+  achieved a 26.14% return at 16.30% volatility (Sharpe ratio: 1.20).
 - The optimizer concentrated weight in SBI (28%), Eicher Motors (25%), and Maruti
-  (24%), favoring Auto and Banking sector exposure over an even spread
+  (24%), favoring Auto and Banking sector exposure over an even spread.
